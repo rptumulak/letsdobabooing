@@ -1,0 +1,4 @@
+$ mkdir ~/letsdobabooing
+$ cd ~/letsdobabooing
+$ git init
+$ touch README
